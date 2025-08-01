@@ -19,7 +19,7 @@
 
 
 ## 💼 Projects
-# 🧠 Mortgage Default Prediction using Machine Learning and Explainable AI
+# Mortgage Default Prediction using Machine Learning and Explainable AI
 
 ## Overview  
 Developed a robust and interpretable machine learning model to predict mortgage loan defaults using the **Fannie Mae Single-Family Loan Performance dataset** (Q1–Q3 2024). The project focused on balancing predictive accuracy with model explainability to ensure transparency in financial decision-making.
@@ -47,18 +47,7 @@ Early identification of high-risk loans is critical for financial institutions t
 Created a high-performing, explainable solution ready for integration in real-world financial risk assessment systems. Demonstrated how AI models can be accurate, fair, and interpretable.
 
 ## GitHub Repository  
-<a href="https://github.com/vivek-kumar24/Credit_Risk_Prediction_XAI" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: bold;
-  color: white;
-  background-color: #2ea44f;
-  border-radius: 6px;
-  text-decoration: none;
-  border: none;
-  text-align: center;
-">
+<a href="https://github.com/vivek-kumar24/Credit_Risk_Prediction_XAI" target="_blank">
   View Project
 </a>
 
