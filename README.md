@@ -6,10 +6,18 @@
 
 ## Education
 - M.Sc, Data Science with Computational Intelligence | Coventry University (_May 2025_)	| NQF Level 7							       		
-- B.Tech , Computer Science and engineering	| Malla Reddy Engineering college ( June 2017 )	| NQF Level 6	        		
+- BCA , Computer Science and engineering	| Mahatma Gandhi Kashi Vidyapith (_September 2023_)	| NQF Level 6	        		
 
 ## Work Experience
-
+Data Analyst 
+CrackDSA | Oct 2023 – Mar 2024 
+• Ensured timely and accurate delivery of pre-project analysis, Technical Evaluation & projects 
+to the clients, maintaining a 98% on-time delivery rate 
+• Developed Power BI dashboards for client implementations, tailoring visualizations to client 
+needs to improve decision-making and stakeholder satisfaction 
+• Automated Power BI report generation, improving reporting efficiency and reliability 
+• Improved product team efficiency by 15% by building SQL queries and Excel reports to extract 
+and analyze critical product lifecycle data, enabling data-driven decision making
 
 ## 💼 Projects
 
