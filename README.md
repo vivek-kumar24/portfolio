@@ -19,4 +19,46 @@
 
 
 ## 💼 Projects
+# 🧠 Mortgage Default Prediction using Machine Learning and Explainable AI
+
+## Overview  
+Developed a robust and interpretable machine learning model to predict mortgage loan defaults using the **Fannie Mae Single-Family Loan Performance dataset** (Q1–Q3 2024). The project focused on balancing predictive accuracy with model explainability to ensure transparency in financial decision-making.
+
+## Problem Statement  
+Early identification of high-risk loans is critical for financial institutions to reduce losses and improve credit strategies. Traditional methods often lack scalability and interpretability.
+
+## Key Highlights
+- **Data Size:** ~40,000 records, 110 original features (reduced to 12 after preprocessing and feature selection)
+- **Preprocessing:** Missing value handling, binary target creation (`default`), feature scaling, and **SMOTE** for class imbalance
+- **Models Used:**
+  - **Machine Learning:** Logistic Regression, Random Forest, XGBoost  
+    *(XGBoost best performer: F1 = 0.93, ROC-AUC = 0.98)*
+  - **Deep Learning:** ANN and CNN  
+    *(ANN with SMOTE performed strongly)*
+- **Explainability:**
+  - **SHAP** used to identify key drivers of default predictions  
+  - Important features: `LOAN_AGE`, `CURRENT_UPB`, `OCLTV`  
+  - Validated that models relied on financially relevant inputs
+
+## Tech Stack  
+**Python**, **Pandas**, **Scikit-learn**, **XGBoost**, **Keras**, **SHAP**, **SMOTE**, **Google Colab**
+
+## Outcome  
+Created a high-performing, explainable solution ready for integration in real-world financial risk assessment systems. Demonstrated how AI models can be accurate, fair, and interpretable.
+
+## GitHub Repository  
+<a href="https://github.com/vivek-kumar24/Credit_Risk_Prediction_XAI" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #2ea44f;
+  border-radius: 6px;
+  text-decoration: none;
+  border: none;
+  text-align: center;
+">
+  View Project
+</a>
 
