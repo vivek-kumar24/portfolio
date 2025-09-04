@@ -10,7 +10,7 @@
 
 ## Work Experience
 ### Data Analyst  
-**CrackDSA** | *Oct 2023 – Mar 2024*
+**CrackDSA** | *September 2023 – April 2024*
 
 - Ensured timely and accurate delivery of pre-project analysis, technical evaluations, and projects to clients, maintaining a 98% on-time delivery rate.  
 - Developed Power BI dashboards tailored to client needs, enhancing decision-making and stakeholder satisfaction.  
@@ -59,6 +59,7 @@ Analyzed a Pizza Hut sales dataset using SQL queries to extract business insight
 SQL (Joins, Aggregations, Grouping, Subqueries, Time-series analysis)
 
 ## Key Analysis Performed
+
 -Retrieved total orders and total revenue.
 -Identified highest-priced pizza, most common pizza size, and top 5 pizzas by quantity.
 -Analyzed category-wise orders, hourly distribution, and average daily orders.
@@ -76,18 +77,21 @@ SQL (Joins, Aggregations, Grouping, Subqueries, Time-series analysis)
 
 ## Coffee Shop Sales Dashboard (Excel Project)
 ## 📌 Overview
+
 Developed an interactive Excel dashboard for a coffee shop chain to analyze sales performance, footfall, and customer behavior. The project focused on building visual insights for real-time operational and business decision-making.
 
 ## ⚙️ Tools & Technologies
 Microsoft Excel (Pivot Tables, Slicers, Charts, Power Query, Conditional Formatting)
 
 ## 🔍 Key Analysis Performed
+
 -Tracked total sales ($540K+) and orders (115K+) across multiple months.
 -Analyzed sales trends by day, hour, and product category (coffee, tea, bakery).
 -Measured average bill per customer and identified top-performing products.
 -Enabled dynamic filtering by month and weekday for flexible exploration.
 
 ## 📊 Outcomes
+
 -Identified top-selling products and peak sales periods to optimize staffing and stock levels.
 -Provided category contribution insights to inform marketing and bundling strategies.
 -Delivered a user-friendly dashboard that supported both store-level and regional decision-making.
