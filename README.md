@@ -51,3 +51,48 @@ Created a high-performing, explainable solution ready for integration in real-wo
   View Project
 </a>
 
+## Pizza Hut Sales Analysis (SQL Project)
+## Overview
+Analyzed a Pizza Hut sales dataset using SQL queries to extract business insights and answer structured questions. The project demonstrates ability to query relational databases, use joins and aggregations, and uncover key sales and customer behavior trends.
+
+## Tools & Technologies
+SQL (Joins, Aggregations, Grouping, Subqueries, Time-series analysis)
+
+## Key Analysis Performed
+-Retrieved total orders and total revenue.
+-Identified highest-priced pizza, most common pizza size, and top 5 pizzas by quantity.
+-Analyzed category-wise orders, hourly distribution, and average daily orders.
+-Ranked top pizzas by revenue at both overall and category level.
+-Calculated revenue contribution % by pizza type and tracked cumulative revenue growth over time.
+
+## Outcomes
+-Highlighted top-selling pizzas and revenue drivers to support inventory planning.
+-Discovered customer order patterns by time of day and pizza size preferences.
+-Delivered a SQL-based framework for sales performance monitoring and business decision-making.
+## GitHub Repository  
+<a href="https://github.com/vivek-kumar24/pizza-sales---SQL" target="_blank">
+  View Project
+</a> 
+
+## Coffee Shop Sales Dashboard (Excel Project)
+## 📌 Overview
+Developed an interactive Excel dashboard for a coffee shop chain to analyze sales performance, footfall, and customer behavior. The project focused on building visual insights for real-time operational and business decision-making.
+
+## ⚙️ Tools & Technologies
+Microsoft Excel (Pivot Tables, Slicers, Charts, Power Query, Conditional Formatting)
+
+## 🔍 Key Analysis Performed
+-Tracked total sales ($540K+) and orders (115K+) across multiple months.
+-Analyzed sales trends by day, hour, and product category (coffee, tea, bakery).
+-Measured average bill per customer and identified top-performing products.
+-Enabled dynamic filtering by month and weekday for flexible exploration.
+
+## 📊 Outcomes
+-Identified top-selling products and peak sales periods to optimize staffing and stock levels.
+-Provided category contribution insights to inform marketing and bundling strategies.
+-Delivered a user-friendly dashboard that supported both store-level and regional decision-making.
+
+## GutHub Repository
+<a href="https://github.com/vivek-kumar24/Coffee-Shop-Sales" target="_blank">
+   View Project
+</a>   
